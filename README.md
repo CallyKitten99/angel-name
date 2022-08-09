@@ -20,3 +20,5 @@ Using the compiler has been very insightful into the semantics of Old C where th
 - The 'sizeof()' operator returns 0 for 'char' types (at least on a PDP11).
 - The 'sizeof()' operator returns correct sizes of 'long' and 'char' as long as they're inside structs.
 - Notice the escaped hash at the beginning of the file (\#define NAMEBUFSZ 128) - the Unix terminal expects a typewriter interface (no backspace in the sense it is used today), thus the hash '#' is the designated backspace delete button (deletes last character). The '@' deletes the whole current line. In order to enter the hash (trigraphs are rejected by the Unix C compiler) it is necessary to escape it with a backslash. The backslash does not actually enter the file. The backslash remains in the GitHub source text so that anyone copy-pasting into their own terminal emulator do not have to escape the hash themselves.
+
+The PDP11 emulator (and a brief list of instructions on how to run it) are included in the PDP11.zip attachment.
