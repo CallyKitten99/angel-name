@@ -1,4 +1,4 @@
-# angel-name
+# PDP11 angel-name
 Program which determines your 'angel name', as per the algorithm set out in 'algorithm.jpg'.
 
 This program was written for (and compiled by) the SIMH PDP11 emulator running Unix 6.
