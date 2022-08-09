@@ -4,7 +4,7 @@ Program which determines your 'angel name', as per the algorithm set out in 'alg
 This program was written for (and compiled by) the SIMH PDP11 emulator running Unix 6.
 Edited via the archaic 'ED' editor.
 
-The Unix 6 C compiler set is ancient (and therefore its C syntax, which apparently predates 'ANSI C' a standard set in 1989.
+The Unix 6 C compiler set is ancient (and therefore its C syntax, which apparently predates 'ANSI C' a standard set in 1989).
 
 Using the compiler has been very insightful into the semantics of Old C where the internet has been largely uninformative. Among these insights are that the Old C language:
 - Doesn't provide a C library in the way it's known today.
