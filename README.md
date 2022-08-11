@@ -1,5 +1,5 @@
 # PDP11 angel-name
-Program which determines your 'angel name', as per the algorithm set out in 'algorithm.jpg'.
+PDP-11 (Old-C) Program which determines your 'angel name', as per the algorithm set out in 'algorithm.jpg'.
 
 This program was written for (and compiled by) the SIMH PDP11 emulator running Unix 6.
 Edited via the archaic 'ED' editor.
